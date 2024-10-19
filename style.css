@@ -1,0 +1,100 @@
+.head1{
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.ci{
+    position: relative;
+}
+
+.parallel1{
+    position: absolute;
+    bottom: -25px;
+    left: 0px;
+    height: 50px;
+    background-color: #f6f6f6;
+
+    transform: skew(40deg);
+    width:50%;
+    z-index: 1000;
+}
+.parallel2{
+    position: absolute;
+    bottom: -25px;
+    right: 0px;
+    height: 50px;
+    background-color: #f6f6f6;
+
+    transform: skew(-40deg);
+    width:50%;
+    z-index: 1000;
+}
+
+#sec3{
+    text-align: center;
+    background-color:#f6f6f6;
+}
+
+.inbox3 h3{
+    padding-top: 50px;
+}
+
+#sec4{
+    height: auto;
+}
+.inbox4{
+    padding-top: 50px;
+}
+
+.inbox5{
+ text-align: justify;
+ padding-top: 100px;
+}
+
+#sec5{
+    background-color:#f6f6f6;
+}
+
+#sec6{
+    text-align: center;
+    position: relative;
+}
+
+#sec7{
+    position: relative;
+}
+.inbox6{
+    padding: 50px 0px; 
+    text-align: center;
+}
+
+#sec8{
+    background-color: #668684;
+    text-align: center;
+}
+.inbox7{
+    padding: 80px;
+}
+
+#sec9{
+    text-align: center;
+    padding: 50px;
+}
+
+.h6{
+    font-size:smaller;
+    font-style:italic ;
+}
+
+#sec10{
+    text-align: center;
+    background-color: black;
+    padding: 50px;
+}
+
+
+.leaf{
+    position: absolute;
+    left: 48%;
+    bottom: -40px; 
+}
